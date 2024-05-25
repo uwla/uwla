@@ -65,9 +65,9 @@ Some of my personal projects which are Free Open Source:
 
 ## Other
 
-**Interested in**: React Native, DevOps, SysAdmin, CyberSecurity, Cryptography.
+**Interested in**: React Native, DevOps, Linux, ...
 
-My focus is WebDev, but in the future I want to learn more about the above topics.
+My focus is WebDev, but in the future I want to learn more about other topics.
 
 There are many things I did not include here...
 
