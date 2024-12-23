@@ -1,12 +1,8 @@
 # UWLA
 
-Programmer who loves many many things, but whose focus is web development.
+I have passion towards computers, specially is web development.
 
-## Skills
-
-**Top skills**: TypeScript, VueJS, Laravel, PHP, Bash, Shellscript, Git, Docker.
-
-**More skills**: Python, ReactJS, Podman.
+This is my public GitHub profile I use for my Open Source projects (I have other GitHub accounts)
 
 ## Projects
 
@@ -62,6 +58,12 @@ Some of my personal projects which are Free Open Source:
     - [Vim plugin](https://github.com/uwla/justify.vim)
     - [JavaScript library](https://github.com/uwla/justify.js)
     - [Python script](https://github.com/uwla/justify.py)
+
+## Skills
+
+**Top skills**: TypeScript, VueJS, Laravel, PHP, Bash, Shellscript, Git, Docker.
+
+**More skills**: Python, ReactJS, Podman.
 
 ## Other
 
